@@ -15,7 +15,7 @@ Code golf is a type of recreational computer programming competition in which pa
 
 ## What was the winning criteria? <br/>
 
-- Code should pass all thier edgy testcases. <br/>
+- Code should pass all their edgy testcases. <br/>
 - The shortest working code (in terms of characters) was added for each question and the person with the least cumulative characters wins!
 
 
